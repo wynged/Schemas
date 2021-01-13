@@ -12,9 +12,6 @@
       "description": "The weight in kilograms",
       "type": "number"
     },
-    "Floor Id": {
-      "type": "string"
-    },
     "Load Per Sq M": {
       "type": "number"
     }
