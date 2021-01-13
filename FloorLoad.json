@@ -8,13 +8,12 @@
   ],
   "required": [],
   "properties": {
-    "Total Load": {
+    "Total Floor Load": {
       "description": "The weight in kilograms",
       "type": "number"
     },
     "Floor Id": {
-      "type": "string",
-      "format": "guid"
+      "type": "string"
     },
     "Load Per Sq M": {
       "type": "number"
